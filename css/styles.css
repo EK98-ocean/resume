@@ -6,6 +6,7 @@ body{
 
 .education{
     font-weight: bold;
+    border: violet 5px dashed
 }
 
 .important{
@@ -14,12 +15,14 @@ body{
 
 .skills{
     font-style: italic;
-    border: blue 10px;
+    border: darkblue 5px solid;
 }
 
 .experience{
+    background-color: teal;
     font-family: sans-serif;
-    border: crimson 10pt;
+    color: white;
+    border: blue 10px solid;
 }
 
 .contact{
@@ -27,4 +30,12 @@ body{
     background-color: lightcoral;
     color: white;
     border: white 10px dashed;
+}
+
+.intro{
+    font-size: 16pt;
+}
+
+em{
+    font-weight: bold;
 }
