@@ -1,0 +1,30 @@
+body{
+    background-color: lightblue;
+    color: lightslategray;
+    font-family: Helvetica;
+}
+
+.education{
+    font-weight: bold;
+}
+
+.important{
+    font-style: italic;
+}
+
+.skills{
+    font-style: italic;
+    border: blue 10px;
+}
+
+.experience{
+    font-family: sans-serif;
+    border: crimson 10pt;
+}
+
+.contact{
+    font-style: oblique;
+    background-color: lightcoral;
+    color: white;
+    border: white 10px dashed;
+}
