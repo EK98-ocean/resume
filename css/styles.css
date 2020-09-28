@@ -5,6 +5,8 @@ body{
 }
 
 .education{
+    margin: 10px;
+    padding: 5px;
     font-weight: bold;
     border: violet 5px dashed
 }
@@ -14,11 +16,15 @@ body{
 }
 
 .skills{
+    margin: 10px;
+    padding: 5px;
     font-style: italic;
     border: darkblue 5px solid;
 }
 
 .experience{
+    margin: 10px;
+    padding: 5px;
     background-color: teal;
     font-family: sans-serif;
     color: white;
@@ -26,6 +32,8 @@ body{
 }
 
 .contact{
+    margin: 10px;
+    padding: 5px;
     font-style: oblique;
     background-color: lightcoral;
     color: white;
